@@ -1,0 +1,2 @@
+# LRC
+code of LRC
